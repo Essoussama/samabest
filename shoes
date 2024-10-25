@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShoeHub - Step Up Your Style!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to SisiShoes</h1>
+        <p>Your one-stop shop for the latest footwear trends</p>
+    </header>
+
+    <section id="products">
+        <div class="product">
+            <img src="shoe1.jpg" alt="Running Shoes">
+            <h2>Running Shoes</h2>
+            <p>Perfect for comfort and performance</p>
+            <p>$49.99</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="shoe2.jpg" alt="Casual Sneakers">
+            <h2>Casual Sneakers</h2>
+            <p>Style and comfort for everyday wear</p>
+            <p>$59.99</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="shoe3.jpg" alt="Formal Leather Shoes">
+            <h2>Formal Leather Shoes</h2>
+            <p>Elegance and durability for formal occasions</p>
+            <p>$89.99</p>
+            <button>Add to Cart</button>
+        </div>
+    </section>
+
+    <footer>
+        <p>Contact us: <a href="mailto:support@shoehub.com">support@shoehub.com</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
